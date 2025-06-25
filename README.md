@@ -27,7 +27,10 @@
 
 ## 📁 Project Structure
 
+```bash
+
 foody2-1.0.0/
+
 ├── index.html
 ├── about.html
 ├── contact.html
