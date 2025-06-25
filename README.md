@@ -28,7 +28,6 @@
 ## 📁 Project Structure
 
 foody2-1.0.0/
-│
 ├── index.html
 ├── about.html
 ├── contact.html
@@ -40,6 +39,22 @@ foody2-1.0.0/
 ├── css/
 │   └── style.css
 ├── img/
-│   └── (various product & layout images)
+│   ├── about.jpg
+│   ├── bg-icon.png
+│   ├── blog-1.jpg
+│   ├── blog-2.jpg
+│   ├── blog-3.jpg
+│   ├── carousel-1.jpg
+│   ├── carousel-2.jpg
+│   ├── icon-1.png
+│   ├── icon-2.png
+│   ├── icon-3.png
+│   ├── product-1.jpg
+│   ├── product-2.jpg
+│   ├── product-3.jpg
+│   ├── product-4.jpg
+│   ├── product-5.jpg
+│   ├── product-6.jpg
+│   └── product-7.jpg
 ├── LICENSE.txt
 └── organic-food-website-template.jpg
